@@ -3,5 +3,3 @@
 system("cat /etc/passwd");
 
 ?> 
-
-
