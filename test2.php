@@ -1,5 +1,5 @@
 <?php
 
-system("cat /var/www/html");
+system("cat /usr/local/lib");
 
 ?>
