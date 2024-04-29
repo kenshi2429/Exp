@@ -1,5 +1,5 @@
 <?php
 
-system("pwd");
+system("cat /var/www/html");
 
 ?>
