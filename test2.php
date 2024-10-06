@@ -1,5 +1,5 @@
 <?php
 
-system("cat /usr/local/lib");
+system("cat /etc/passwd");
 
 ?>
